@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StartPos
+  - Porunca
+  - Mistakes
+  - Days
+  - Item
+  - WasteBin
+  - PaperBin
+  - PlasticBin
+  - Fish
+  - Banane
+  - Mere
+  - Morcovi
+  - Entrance
+  - Question
+  - QuestionMenu
+  - Buttons
+  - Tigaie
+  - Rosii
+  - TV
+  - Oua
+  - Peste
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Unwalkable
+  - Client
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3119138103
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OverBackground
+    uniqueID: 746632723
+    locked: 0
+  - name: Foreground
+    uniqueID: 3251765297
+    locked: 0
+  - name: PlaceHolder
+    uniqueID: 3556599129
+    locked: 0
+  - name: Porunci
+    uniqueID: 3908572323
+    locked: 0

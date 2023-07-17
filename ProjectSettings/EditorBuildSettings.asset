@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: c6cdbb7806afa1e4e9daab5fd3f4d56a
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fc65ae4a7e7018c4890cb52aeaf40528
+  - enabled: 1
+    path: Assets/Scenes/Church.unity
+    guid: bcd379b090fceff43b26467472bb7751
+  - enabled: 1
+    path: Assets/Scenes/Lake.unity
+    guid: e7a4bad28a82d7240aed9adf352f0d41
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 2c9195f3aabc6ce40b78ddbe73269f2e
+  - enabled: 1
+    path: Assets/Scenes/Supermarket.unity
+    guid: eca46a89b9fc5bf41b4905c96193f667
+  - enabled: 1
+    path: Assets/Scenes/ChurchGames/Cele10Porunci.unity
+    guid: 37153dd9b180ef84081f4c12006b6c00
+  - enabled: 1
+    path: Assets/Scenes/ChurchGames/ZileleCreatiei.unity
+    guid: 66624c5ad384a33479e0058a3c24150a
+  - enabled: 1
+    path: Assets/Scenes/LibraryGames/Spanzuratoarea.unity
+    guid: ca830119572ab994cbe5331af2859f64
+  - enabled: 1
+    path: Assets/Scenes/LakeGames/TriajPentruReciclare.unity
+    guid: 723bf9edc4b16694ab96fbe72b4b946b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 474a37405bf56dc4b88adb2cd43b5242
+  - enabled: 1
+    path: Assets/Scenes/LibraryGames/GasesteAutorul.unity
+    guid: c3d475a916d8df34db8ef631dc313f99
+  - enabled: 1
+    path: Assets/Scenes/LakeGames/PrindePestele.unity
+    guid: 21ed865a66e08394d8b68d955c225f6a
+  - enabled: 1
+    path: Assets/Scenes/SupermarketGames/LoadingScene.unity
+    guid: 525413cbc3117bb4a8c90700ffdd6f0e
+  - enabled: 1
+    path: Assets/Scenes/SupermarketGames/ManiaCumparaturilor.unity
+    guid: 0847f5c5d47fbf84080692035b9e8464
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: 3111c2631df5b2c4092f24eb7aa30539
+  - enabled: 1
+    path: Assets/Scenes/Tutorial3.unity
+    guid: fadd646badbedcb4da7dba9d0e97fbdd
+  - enabled: 1
+    path: Assets/Scenes/Tutorial4.unity
+    guid: fd59ad1007141a9409888a56a3e336b1
+  - enabled: 1
+    path: Assets/Scenes/Tutorial5.unity
+    guid: f8853ac8381fbe44886aad14733d9967
+  - enabled: 1
+    path: Assets/Scenes/Tutorial6.unity
+    guid: 161fd54df336c4644b34a683d1e51c65
+  m_configObjects: {}
